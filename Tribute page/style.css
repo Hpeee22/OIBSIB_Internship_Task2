@@ -1,0 +1,128 @@
+.Main-page1{
+    width: 100%;
+    height: 100%;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+}
+.header{
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color:   #484242;
+    color: white;
+    padding: 10px 10px;
+    
+}
+.header h1,h5{
+    text-align: center;
+    color: white;
+}
+.container{
+    display: flex;
+  justify-content: center; 
+  align-items: center; 
+    
+}
+img{
+    width: 25%;
+    border-radius: 38px;
+    padding: 30px;
+}
+.early-life{
+    margin: 5px;
+    padding: 8px;
+    
+}
+.content{
+    margin: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+.carrer-content{
+    margin: 8px;
+    padding: 5px;
+}
+.c-container{
+    margin: 10px;
+    padding: 2px;
+    
+}
+.scientist-content{
+    margin: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+.carrer-content img{
+    width:50%;
+    height: 100%;
+    padding: 5px;
+    margin: 2px;
+   float: right;
+}
+.carrer2-content h3{
+    margin: 15px;
+    padding: 2px;
+
+}
+.carrer2-content img{
+    width:50%;
+    padding: 5px;
+    margin: 2px;
+   float: right;
+}
+.President-content{
+    margin: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+.carrer3-content h3{
+    margin: 15px;
+    padding: 2px;
+}
+.carrer3-content img{
+    width:35%;
+    padding: 5px;
+    margin: 2px;
+   float: right;
+}
+.academy-content{
+    margin: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+.carrer4-content{
+    margin: 15px;
+    padding: 5px;
+}
+.award-content{
+    margin: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+.carrer5-content h2{
+    margin: 15px;
+    padding: 5px;
+}
+.death-content{
+    margin: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+.footer{
+    text-align: center;
+    font-size: 10px;
+    font-family: sans-serif;
+    background-color:   #484242;
+    color: white;
+    padding: 10px 15px;
+}
+.footer-content{
+    font-size: 15px;
+    text-align: center;
+}
